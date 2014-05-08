@@ -1,14 +1,13 @@
 {
-    "name": "eso/doctrine-repository",
+    "name": "ebidtech/doctrine-repository",
     "type": "library",
-    "description": "An alternative doctrine entity base repository ",
+    "description": "An alternative doctrine entity base repository. Fork from eso/doctrine-repository.",
     "keywords": ["php", "doctrine", "repository", "entity"],
-    "homepage": "http://github.com/entering/doctrine-repository",
+    "homepage": "http://github.com/ebidtech/doctrine-repository",
     "license": "MIT",
     "authors": [
         {
-            "name": "Eduardo Oliviveira",
-            "email": "entering@gmail.com"
+            "name": "Ebidtech"
         }
     ],
     "minimum-stability": "stable",
